@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    border: 1.5px solid grey;
+    text-align: center;
+}
+.headertop {
+    margin: 0;
+    padding: 0;
+    background-color: #1f2937;
+}
+
+.header-logo{
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    color: gray;
+    font-size: 50px;
+}
+
+ul {
+}
+
+.headerbody {
+    display: grid;
+    grid: 50% 50%;
+}
