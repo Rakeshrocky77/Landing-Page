@@ -46,3 +46,42 @@ h1 {
     font-weight: bolder;
     color:#F9FAF8;
 }
+
+.headbody {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+
+.hbright {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.hbleft {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.first {
+    color: #E5E7E8;
+    font-size: 18px;   
+}
+img {
+   margin-bottom: 50px;
+}
+
+.sign-up {
+    background-color: #3882F6;
+    color: white;
+    border: 1px #3882F6;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+}
