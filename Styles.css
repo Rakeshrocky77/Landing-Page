@@ -86,3 +86,37 @@ img {
     width: 100px;
     height: 40px;
 }
+
+.hd-p {
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    color: #1F2937;
+}
+
+.box-o {
+    border : 3px solid #3882F6;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 100%;
+    margin: 100px;
+    align-items: center;
+}
+
+.box-p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
